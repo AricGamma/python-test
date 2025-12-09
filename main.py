@@ -7,4 +7,3 @@ def main():
     """
     Main entry point
     """
-    pass
